@@ -18,7 +18,7 @@ Made in February 2024.
 5. Using cmd, locate to project directory and enter the command "flutter run"
 6. Choose an emulator from Edge, Chrome, or Windows.
 
-**_Preview:_**
+# Preview:
 ![image](https://github.com/user-attachments/assets/47d11ba2-404e-4964-ad79-f874d1d44e8c)
 
 ![image](https://github.com/user-attachments/assets/d83e4bb8-8fb7-47c6-89c4-81f348387822)
