@@ -1,5 +1,6 @@
 ﻿# Barangay Garbage Tracker
 Project for CPE176P.
+Made in February 2024.
 
 ## **_There are two methods to run the application:_**
 
